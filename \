@@ -15,5 +15,5 @@ with open("ticker","r")as tickerFile:
         percentChange =(closeValue-openValue)/opewnValue*100
         print percentChange
         :
-:
+
 
